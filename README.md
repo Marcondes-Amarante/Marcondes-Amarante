@@ -1,6 +1,6 @@
 # Olá, me chamo Marcondes 👋
 
-Sou um estudante de ciência da computação na UFCA a procura de oprotunidades de ingresso no mercado de desenvolvimento de software. Tenho especial interesse nas áres de banco de dados e back end, onde desenolvo projetos de cunho pessoais e acadêmicos.
+Sou um estudante de ciência da computação na UFCA a procura de oprotunidades de ingresso no mercado de desenvolvimento de software. Tenho especial interesse nas áreas de banco de dados e desenvolvimento back end, onde desenolvo projetos de cunho pessoal e acadêmico.
 
 # 💻 Habilidades
 
@@ -17,3 +17,9 @@ Sou um estudante de ciência da computação na UFCA a procura de oprotunidades 
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcondes-Amarante&repo=circuitos-digitais&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)](https://github.com/Marcondes-Amarante/circuitos-digitais.git)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Marcondes-Amarante&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)](https://github.com/Marcondes-Amarante/dio-lab-open-source.git)
+
+<div align ="center">
+  <h6>
+    icones de skills apresentados no tópico habilidades criados por <a href="https://github.com/tandpfun"> @tandpfun </a> e disponíveis em <a href="https://skillicons.dev/">skillIcon</a>
+  </h6>
+</div>
