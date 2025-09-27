@@ -1,6 +1,6 @@
 # Olá, me chamo Marcondes 👋
 
-Sou um estudante de ciência da computação na UFCA a procura de oprotunidades de ingresso no mercado de desenvolvimento de software. Tenho especial interesse nas áreas de banco de dados e desenvolvimento back end, onde desenolvo projetos de cunho pessoal e acadêmico.
+Sou um estudante de ciência da computação da UFCA a procura de oprotunidades de ingresso no mercado de desenvolvimento de software. Tenho interesse nas áreas de banco de dados e desenvolvimento back end, onde desenvolvo projetos de cunho pessoal e acadêmico.
 
 # 💻 Habilidades
 
@@ -11,7 +11,7 @@ Sou um estudante de ciência da computação na UFCA a procura de oprotunidades 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:marcondes10000@hotmail.com)
 
 # 📊 Meus Status do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marcondes-Amarante&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Marcondes-Amarante&layout=compact&bg_color=000&border_color=30A3DC&title_color=30A3DC&text_color=FFF) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marcondes-Amarante&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcondes-Amarante&layout=compact&bg_color=000&border_color=30A3DC&title_color=30A3DC&text_color=FFF)
 
 # 📝Minhas principais contribuições:
 
